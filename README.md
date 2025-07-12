@@ -1,8 +1,8 @@
 # Team Name : Runtime Terror
 
-## Problem Statement : StackIt – A Minimal Q&A Forum Platform
+## Problem Statement : StackIt – A Minimal Q&A Forum Platform focused on collaborative learning & structured knowledge sharing.
 
-## Team Memebers:
+## Team Members:
 Nupur Mahawar (Team Lead) - nupurmahawar2004@gmail.com
 
 Khushi Khattar - khushikhattar06@gmail.com
